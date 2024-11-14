@@ -1,2 +1,2 @@
-# codeNest
+# CodeNest
 The Group Chat App
